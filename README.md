@@ -14,6 +14,7 @@
 - Estagiária na Editora Globo
   - Trabalhando com Linux
   - Desenvolvimento Web Full-Stack
+  - Kanban
 
 ## 💞️ Colaborações
 Estou interessada em colaborar em projetos relacionados a desenvolvimento Front-end e design de interface.
