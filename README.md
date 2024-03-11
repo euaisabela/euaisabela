@@ -1,14 +1,19 @@
 ## 👋 Olá, eu sou Isabela!
 
 ## 👀 Interesses
-- Desenvolvimento Front-end
-- UI/UX Design
+- Desenvolvimento Front-end 
+- Python Data Analytics
 - Web Development
 
 ## 🌱 Atualmente estou aprendendo
 - Desenvolvimento Web (HTML, CSS, JavaScript)
-- Frameworks como React.js ou Vue.js
-- Design responsivo
+- Frameworks como React.js
+- Trabalhando com Linux
+
+## 💼 Experiência Profissional
+- Estagiária na Editora Globo
+  - Trabalhando com Linux
+  - Desenvolvimento Web Full-Stack
 
 ## 💞️ Colaborações
 Estou interessada em colaborar em projetos relacionados a desenvolvimento Front-end e design de interface.
