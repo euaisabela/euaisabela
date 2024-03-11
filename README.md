@@ -8,7 +8,7 @@
 ## 🌱 Atualmente estou aprendendo
 - Desenvolvimento Web (HTML, CSS, JavaScript)
 - Frameworks como React.js
-- Trabalhando com Linux
+- JAVA
 
 ## 💼 Experiência Profissional
 - Estagiária na Editora Globo
