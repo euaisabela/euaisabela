@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou Isabela!
+## 👋 Olá, eu sou a Isabela!
 
 ## 👀 Interesses
 - Desenvolvimento Front-end 
