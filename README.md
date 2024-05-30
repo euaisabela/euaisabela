@@ -3,6 +3,7 @@
 Atualmente estou me aprofundando em :
 - Python Data Analytics
 - Web Development
+- JAVA
 
 
 
