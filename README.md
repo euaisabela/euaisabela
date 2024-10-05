@@ -1,9 +1,9 @@
 ## Oiiie! Eu sou a Isabela. 🎲👾
 
 Atualmente estou me aprofundando em :
-- Python Data Analytics
+- Python 
 - Web Development
-- JAVA
+- React
 
 
 
