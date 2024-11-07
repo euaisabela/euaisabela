@@ -4,7 +4,7 @@
 - ![GitHub Commit Stats](https://github-readme-stats.vercel.app/api?username=euaisabela&show_icons=true&count_private=true&hide=issues&theme=default)
 
 
-![WakaTime](https://wakatime.com/badge/user/euaisabela.svg)
+![WakaTime](https://wakatime.com/badge/euaisabela/euaisabela.svg)
 
 
 
