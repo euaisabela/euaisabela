@@ -4,7 +4,7 @@
 
 🎓 Formada em **Análise e Desenvolvimento de Sistemas**.
 
-💻 Possuo experiência com **desenvolvimento Front-end**, **automações em Python** e desenvolvimento utilizando **C#**.
+💻 Possuo experiência profissional como Estagiária em **desenvolvimento Front-end**, e como Analista de Sistemas e Suporte Junior **automações em Python** e desenvolvimento utilizando **C#**.
 
 📊 Tenho grande interesse nas áreas de **Análise de Dados**, automação e desenvolvimento de software.
 
